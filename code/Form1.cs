@@ -14,7 +14,7 @@ namespace 作業中
         {
             InitializeComponent();
 
-            client = new DiscordRpcClient("1462385117753245707");
+            client = new DiscordRpcClient("*******************");
             client.Initialize();
 
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
