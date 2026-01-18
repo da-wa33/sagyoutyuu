@@ -8,7 +8,6 @@ namespace 作業中
     {
         private DateTime? startTime;
 
-
         private DiscordRpcClient client;
 
         public Form1()
