@@ -12,3 +12,7 @@ Discordのプレイステータスコードを作業にすることが出来ま�
 
 <img width="441" height="458" alt="image" src="https://github.com/user-attachments/assets/34e68ef6-daf0-4488-a0df-5f7c57fde4d0" />
 
+
+## ダウンロード
+[ここをクリック](https://github.com/da-wa33/sagyoutyuu/releases/download/1.0/sagyoutyuu-1.0.zip)
+して直接zipファイルをダウンロードできます(x64のみ)
