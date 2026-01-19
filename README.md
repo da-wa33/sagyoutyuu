@@ -23,5 +23,4 @@ Discordのプレイステータスコードを作業にすることが出来ま�
 
 [ソースコード](https://github.com/da-wa33/Sagyochu)
 
-[ダウンロード](https://github.com/da-wa33/sagyoutyuu/releases/tag/1.1)
-windows mac linuxに対応しています
+ダウンロード 一時配布中止
